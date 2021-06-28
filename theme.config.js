@@ -4,6 +4,7 @@ export default {
   footer: (
     <small style={{ display: 'block', marginTop: '8rem' }}>
       <time>{YEAR}</time> © Jayyiu.
+      <a href="/">Home</a>
       <a href="/feed.xml">RSS</a>
       <style jsx>{`
         a {
