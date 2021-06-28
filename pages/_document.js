@@ -8,7 +8,7 @@ class MyDocument extends Document {
 
   render() {
     const meta = {
-      title: 'Jay Yiu's Website',
+      title: "Jay Yiu's Website",
       description: 'Website und Blog von Jayyiu.',
       image:
         'https://i.ibb.co/YTXtVPQ/Jayyiu.jpg'
